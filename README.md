@@ -1,4 +1,4 @@
-# Website Chatbot using RAG
+# Chat With Website
 
 A **Retrieval-Augmented Generation (RAG)** based chatbot that allows users to ask questions about any website. The application extracts website content, converts it into vector embeddings, retrieves the most relevant information for a query, and generates accurate responses using a Large Language Model (LLM).
 
